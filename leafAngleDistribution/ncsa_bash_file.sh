@@ -1,0 +1,1 @@
+python /home/zongyang/pyWorkSpace/leafAngleDistribution/leafAngleDistribution.py -y 2018 -d 4 -f 4 -s 18 -e 19 -m date -p /home/sites/ua-mac/Level_1/scanner3DTop/ -j /home/sites/ua-mac/raw_data/scanner3DTop/ -o /home/zongyang/data/ua-mac/Level_2/leafAngle/ -v /home/zongyang/data/ua-mac/Level_2/leafAngle/result
